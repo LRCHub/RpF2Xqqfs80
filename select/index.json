@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "青春",
+  "base_artist": "春猿火",
+  "createdAt": "2025-12-12T13:38:01.546989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/01_青春_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/02_青春_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "斉藤由貴",
+      "has_synced": false,
+      "path": "select/03_青春_斉藤由貴.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青春、戀愛和意外",
+      "artist": "Tsang Lok Tung",
+      "has_synced": true,
+      "path": "select/04_青春、戀愛和意外_Tsang_Lok_Tung.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "↑THE HIGH-LOWS↓",
+      "has_synced": true,
+      "path": "select/05_青春_↑THE_HIGH-LOWS↓.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "松山千春",
+      "has_synced": false,
+      "path": "select/06_青春_松山千春.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "中川翔子",
+      "has_synced": true,
+      "path": "select/07_青春_中川翔子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青春\"サブリミナル\"",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/08_青春_サブリミナル_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/09_青春_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青春 (ザ・森高テイク)",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/10_青春_(ザ・森高テイク)_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "春猿火",
+      "has_synced": true,
+      "path": "select/11_青春_春猿火.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "伍佰 & China Blue",
+      "has_synced": true,
+      "path": "select/12_青春_伍佰_&_China_Blue.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "Yoshimi Iwasaki",
+      "has_synced": true,
+      "path": "select/13_青春_Yoshimi_Iwasaki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "青春 To Be Continued",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/14_青春_To_Be_Continued_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "青春",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/15_青春_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "友情 純情 oh 青春",
+      "artist": "berryzkobo",
+      "has_synced": false,
+      "path": "select/16_友情_純情_oh_青春_berryzkobo.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "青春!無限パワー",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/17_青春!無限パワー_°C-ute.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "青春!無限パワー",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/18_青春!無限パワー_°C-ute.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "醒めないで、青春",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/19_醒めないで、青春_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_青春_春猿火.txt"
+    }
+  ]
+}
